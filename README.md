@@ -112,7 +112,7 @@ Learning project — core task CRUD functionality and frontend API integration h
 ### Add a Task
 ![Add Task Form](screenshots/add-task.png)
 
-### Dark Mode
+### Completed Task
 ![Completed Task](screenshots/task-completed.png)
 
 ### Dark Mode
